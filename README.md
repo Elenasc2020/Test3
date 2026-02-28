@@ -25,3 +25,7 @@
 # Ссылки
 Вот картинка нашего ![Агропитомника](https://github.com)
 
+
+```python
+def hello():
+    print("Привет, Markdown!")
